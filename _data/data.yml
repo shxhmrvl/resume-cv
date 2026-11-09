@@ -1,0 +1,68 @@
+# Resume content for Mohamad Raziq Shah bin Mohd Zabidi
+sidebar:
+  position: right
+  about: false
+  education: true
+  name: Mohamad Raziq Shah bin Mohd Zabidi
+  tagline: Graduan Pendidikan (Sejarah) | Customer Service
+  avatar: raziq-profile.jpg
+  email: raziqshah210102@gmail.com
+  phone: "0183915460"
+  address: "Simpang, Perak"
+  languages:
+    title: Bahasa
+    info:
+      - idiom: Bahasa Melayu
+        level: Sangat Baik
+      - idiom: English
+        level: Baik
+  interests:
+    title: ""
+
+career-profile:
+  title: Ringkasan Profil
+  summary: |
+    Seorang graduan yang bakal menamatkan pengajian Ijazah Sarjana Muda Pendidikan (Sejarah) di Universiti Pendidikan Sultan Idris (UPSI). Bertanggungjawab, cepat belajar dan mempunyai pengalaman dalam perkhidmatan pelanggan serta pengendalian pembayaran. Bersedia bekerja mengikut syif dan memberikan perkhidmatan terbaik kepada pelanggan.
+
+education:
+  title: Pendidikan
+  info:
+    - degree: Bachelor of Education (History) with Honours
+      university: Universiti Pendidikan Sultan Idris (UPSI)
+      time: 2022–2026
+      details: "Jangkaan tamat pengajian: 2026"
+    - degree: STPM (PNGK 3.65)
+      university: Sekolah Menengah Kebangsaan Simpang
+      time: 2020–2022
+
+experiences:
+  title: Pengalaman Kerja
+  info:
+    - role: Waiter / Cashier
+      time: 2019–2021
+      company: ""
+      details: |
+        - Mengendalikan pembayaran tunai dan tanpa tunai dengan tepat.
+        - Memberikan layanan mesra kepada pelanggan.
+        - Memastikan kaunter sentiasa kemas dan teratur.
+        - Membantu menyusun stok dan menjaga kebersihan premis.
+    - role: Kitchen Cook / Helper
+      time: 2022–2025
+      company: ""
+      details: |
+        - Menyediakan makanan mengikut SOP.
+        - Memastikan stok mencukupi dan tersusun.
+        - Mengekalkan kebersihan kawasan kerja.
+        - Bekerjasama dengan pasukan bagi memastikan operasi berjalan lancar.
+
+skills:
+  title: Kemahiran
+  toolset:
+    - name: Customer Service
+    - name: Fast Learner
+    - name: Teamwork
+    - name: Time Management
+    - name: Stock Arrangement
+    - name: Microsoft Office (Basic)
+
+footer: "Mohamad Raziq Shah bin Mohd Zabidi"
